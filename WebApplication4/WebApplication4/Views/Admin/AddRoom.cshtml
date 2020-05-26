@@ -1,0 +1,198 @@
+﻿@using WebApplication4.ModelViews
+@model AddRoomViewModel
+@{
+    ViewBag.Title = "AddRoom";
+}
+
+
+<h2>AddRoom</h2>
+@using (Html.BeginForm("AddRoom", "Admin", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <h4>Create a new room</h4>
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Room.Name, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.EditorFor(name => name.Room.Name, new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.Room.Name, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Room.Adress, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.EditorFor(adress => adress.Room.Adress, new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.Room.Adress, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Room.Description, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.EditorFor(Description => Description.Room.Description, new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.Room.Description, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Room.Email, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.EditorFor(Email => Email.Room.Email, new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.Room.Email, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Room.LavelOfFear, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.EditorFor(LavelOfFear => LavelOfFear.Room.LavelOfFear, new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.Room.LavelOfFear, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Room.LevelOfDifficulty, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.EditorFor(LevelOfDifficulty => LevelOfDifficulty.Room.LevelOfDifficulty, new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.Room.LevelOfDifficulty, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Room.MaxPlayers, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.EditorFor(MaxPlayers => MaxPlayers.Room.MaxPlayers, new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.Room.MaxPlayers, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Room.MinPlayers, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.EditorFor(MinPlayers => MinPlayers.Room.MinPlayers, new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.Room.MinPlayers, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Room.Rating, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.EditorFor(Rating => Rating.Room.Rating, new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.Room.Rating, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Room.Time, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.EditorFor(time => time.Room.Time, new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.Room.Time, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="divNumber form-group">
+        @Html.LabelFor(m => m.Room.Telephones.First().Number, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            <p><input type="button" id="addLink" value="Добавить"></p>
+        </div>
+    </div>
+
+    @*<div class="phones-container">
+        <div class="mdl-textfield mdl-js-textfield input-title">
+            <input type="number" class="mdl-textfield__input" name="Room.PhoneNumbers[0].Number" />
+            <label class="mdl-textfield__label" for="MaxPlayersCount">Phone #1</label>
+        </div>
+    </div>*@
+
+  
+    <div class="phones-container">
+        <div class="mdl-textfield mdl-js-textfield input-title">
+            <input type="number" class="mdl-textfield__input" name="Room.Telephones[0].Number" />
+        </div>
+    </div>
+
+
+    <div>
+        <input type="file" name="File" id="file" />
+        <label for="File">Choose an image to display</label>
+    </div>
+
+
+
+    <input type="submit" value="OK" />
+</div>
+}
+
+@section Scripts {
+    <script>
+
+        let phoneCounter = 2;
+
+        $("#addLink").on('click', function () {
+            var phoneFieldComponent = document.createElement('div');
+            phoneFieldComponent.className = "mdl-textfield mdl-js-textfield"
+
+            phoneFieldComponent.innerHTML = `
+                     <input class="mdl-textfield__input" type="number" name=Room.Telephones[${phoneCounter - 1}].Number>
+                `;
+
+            phoneCounter++;
+
+            document.querySelector('.phones-container').appendChild(phoneFieldComponent);
+            componentHandler.upgradeElement(phoneFieldComponent);
+        })
+
+        @*let phoneCounter = 2;
+
+        $(function () {
+            $('.addLink').on('click', function () {
+
+                //var html2Add = "<input type='text' class = tel />";
+                var html2Add = document.createElement('div');
+                html2Add.innerHTML = `
+                     <input class="mdl-textfield__input" type="number" name=Room.PhoneNumbers[${}].Number>`
+
+                phoneCounter++;
+
+                document.querySelector('.phones-container').appendChild(phoneFieldComponent);
+                componentHandler.upgradeElement(phoneFieldComponent);
+
+                //$('.divNumber').append(html2Add);
+
+                @*let str = $('.tel').val();
+                @Model.Room.Telephones.Add(new WebApplication4.Models.Telephone { Number = str });*@
+            //});
+       // })
+    </script>
+
+}
+
+
+@*@Html.EditorFor(n => n.Room.Number);*@
+@*<button id="buttonAdd">+++</button>
+
+    @*// обработчик, создается поле, добавляется tелефон, в div все телефоны*@
+@*@section scripts {
+    <script>
+
+        $("#clickAdd").click(function () {
+            var input = document.createElement("input");
+            input.innerText = "dfdf";
+            $("body").appendChild(input);
+        });
+
+    </script>*@*
+@*}*@
+@*</div>*@
+
+
+
+
+
+
+
+

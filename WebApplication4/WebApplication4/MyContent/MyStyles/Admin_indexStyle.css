@@ -1,0 +1,17 @@
+﻿
+.img_div {
+    width: 200px;
+    height: auto;
+}
+
+.a_div {
+    margin: 10px;
+}
+
+.divroom {
+    margin: 10px;
+    border: 2px solid black;
+    width: 200px;
+    /*float: left;*/
+ 
+}

@@ -1,0 +1,350 @@
+C:\Users\Daniel\Desktop\data-driven\laba\bin\laba.dll.config
+C:\Users\Daniel\Desktop\data-driven\laba\bin\laba.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\laba.pdb
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\csc.exe
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\csc.exe.config
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\csc.rsp
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\csi.exe
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\csi.exe.config
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\csi.rsp
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\System.AppContext.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\System.Console.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\System.IO.Compression.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\System.Net.Http.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\System.ValueTuple.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\vbc.exe
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\vbc.exe.config
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\vbc.rsp
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daniel\Desktop\data-driven\laba\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daniel\Desktop\data-driven\laba\bin\Autofac.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\Autofac.Integration.Mvc.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\Newtonsoft.Json.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\Ninject.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\Ninject.Web.Common.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\Ninject.Web.WebApi.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\System.Net.Http.Formatting.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\System.Web.Helpers.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\System.Web.Http.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\System.Web.Mvc.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\System.Web.Razor.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\System.Web.Webpages.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\System.Web.Webpages.Razor.dll
+C:\Users\Daniel\Desktop\data-driven\laba\bin\Autofac.xml
+C:\Users\Daniel\Desktop\data-driven\laba\bin\Autofac.Integration.Mvc.xml
+C:\Users\Daniel\Desktop\data-driven\laba\bin\Newtonsoft.Json.xml
+C:\Users\Daniel\Desktop\data-driven\laba\bin\Ninject.xml
+C:\Users\Daniel\Desktop\data-driven\laba\bin\Ninject.Web.Common.xml
+C:\Users\Daniel\Desktop\data-driven\laba\bin\Ninject.Web.WebApi.xml
+C:\Users\Daniel\Desktop\data-driven\laba\bin\System.Net.Http.Formatting.xml
+C:\Users\Daniel\Desktop\data-driven\laba\bin\System.Web.Http.xml
+C:\Users\Daniel\Desktop\data-driven\laba\bin\System.Web.Razor.xml
+C:\Users\Daniel\Desktop\data-driven\laba\bin\System.Web.Webpages.xml
+C:\Users\Daniel\Desktop\data-driven\laba\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Daniel\Desktop\data-driven\laba\bin\System.Web.Webpages.Razor.xml
+C:\Users\Daniel\Desktop\data-driven\laba\bin\System.Web.Helpers.xml
+C:\Users\Daniel\Desktop\data-driven\laba\bin\System.Web.Mvc.xml
+C:\Users\Daniel\Desktop\data-driven\laba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daniel\Desktop\data-driven\laba\obj\Debug\laba.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\data-driven\laba\obj\Debug\laba.csproj.CopyComplete
+C:\Users\Daniel\Desktop\data-driven\laba\obj\Debug\laba.dll
+C:\Users\Daniel\Desktop\data-driven\laba\obj\Debug\laba.pdb
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\laba.dll.config
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\laba.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\laba.pdb
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\csc.exe
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\csc.exe.config
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\csc.rsp
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\csi.exe
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\csi.exe.config
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\csi.rsp
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.Managed.Core.targets
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.Win32.Primitives.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.AppContext.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Collections.Immutable.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Console.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Diagnostics.StackTrace.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Globalization.Calendars.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.IO.Compression.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.IO.Compression.ZipFile.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.IO.FileSystem.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.IO.FileSystem.Primitives.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Net.Http.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Net.Sockets.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Reflection.Metadata.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Security.Cryptography.Encoding.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Security.Cryptography.Primitives.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Text.Encoding.CodePages.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Threading.Tasks.Extensions.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.ValueTuple.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Xml.ReaderWriter.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Xml.XmlDocument.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Xml.XPath.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Xml.XPath.XDocument.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\vbc.exe
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\vbc.exe.config
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\vbc.rsp
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\VBCSCompiler.exe
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\VBCSCompiler.exe.config
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Autofac.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Autofac.Integration.Mvc.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Microsoft.Web.Infrastructure.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Newtonsoft.Json.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Ninject.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Ninject.Web.Common.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Ninject.Web.WebApi.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Net.Http.Formatting.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Helpers.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Http.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Mvc.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Razor.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Webpages.Deployment.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Webpages.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Webpages.Razor.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Autofac.xml
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Autofac.Integration.Mvc.xml
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Newtonsoft.Json.xml
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Ninject.xml
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Ninject.Web.Common.xml
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Ninject.Web.WebApi.xml
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Net.Http.Formatting.xml
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Http.xml
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Razor.xml
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Webpages.xml
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Webpages.Deployment.xml
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Webpages.Razor.xml
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Helpers.xml
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Mvc.xml
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\obj\Debug\laba.csprojAssemblyReference.cache
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\obj\Debug\laba.csproj.CoreCompileInputs.cache
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\obj\Debug\laba.csproj.CopyComplete
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\obj\Debug\laba.dll
+d:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\obj\Debug\laba.pdb
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\laba.dll.config
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\laba.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\laba.pdb
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\csc.exe
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\csc.exe.config
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\csc.rsp
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\csi.exe
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\csi.exe.config
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\csi.rsp
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.AppContext.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Collections.Immutable.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Console.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Globalization.Calendars.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.IO.Compression.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.IO.FileSystem.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Net.Http.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Net.Sockets.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Reflection.Metadata.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.ValueTuple.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Xml.XPath.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\vbc.exe
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\vbc.exe.config
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\vbc.rsp
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\VBCSCompiler.exe
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\VBCSCompiler.exe.config
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Autofac.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Autofac.Integration.Mvc.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Microsoft.Web.Infrastructure.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Newtonsoft.Json.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Ninject.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Ninject.Web.Common.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Ninject.Web.WebApi.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Net.Http.Formatting.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Helpers.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Http.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Mvc.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Razor.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Webpages.Deployment.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Webpages.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Webpages.Razor.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Autofac.xml
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Autofac.Integration.Mvc.xml
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Newtonsoft.Json.xml
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Ninject.xml
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Ninject.Web.Common.xml
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Ninject.Web.WebApi.xml
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Net.Http.Formatting.xml
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Http.xml
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Razor.xml
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Webpages.xml
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Webpages.Deployment.xml
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Webpages.Razor.xml
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Helpers.xml
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Mvc.xml
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\obj\Debug\laba.csprojAssemblyReference.cache
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\obj\Debug\laba.csproj.CopyComplete
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\obj\Debug\laba.dll
+E:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\obj\Debug\laba.pdb
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\laba.dll.config
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\laba.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\laba.pdb
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\csc.exe
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\csc.exe.config
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\csc.rsp
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\csi.exe
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\csi.exe.config
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\csi.rsp
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.CodeAnalysis.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.CSharp.Core.targets
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.Managed.Core.targets
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.VisualBasic.Core.targets
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\Microsoft.Win32.Primitives.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.AppContext.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Collections.Immutable.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Console.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Diagnostics.StackTrace.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Globalization.Calendars.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.IO.Compression.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.IO.Compression.ZipFile.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.IO.FileSystem.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.IO.FileSystem.Primitives.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Net.Http.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Net.Sockets.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Reflection.Metadata.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Security.Cryptography.Encoding.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Security.Cryptography.Primitives.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Text.Encoding.CodePages.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Threading.Tasks.Extensions.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.ValueTuple.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Xml.ReaderWriter.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Xml.XmlDocument.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Xml.XPath.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\System.Xml.XPath.XDocument.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\vbc.exe
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\vbc.exe.config
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\vbc.rsp
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\VBCSCompiler.exe
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\roslyn\VBCSCompiler.exe.config
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Autofac.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Autofac.Integration.Mvc.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Microsoft.Web.Infrastructure.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Newtonsoft.Json.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Ninject.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Ninject.Web.Common.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Ninject.Web.WebApi.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Net.Http.Formatting.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Helpers.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Http.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Mvc.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Razor.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Webpages.Deployment.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Webpages.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Webpages.Razor.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Autofac.xml
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Autofac.Integration.Mvc.xml
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Newtonsoft.Json.xml
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Ninject.xml
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Ninject.Web.Common.xml
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Ninject.Web.WebApi.xml
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Net.Http.Formatting.xml
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Http.xml
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Razor.xml
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Webpages.xml
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Webpages.Deployment.xml
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Webpages.Razor.xml
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Helpers.xml
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\System.Web.Mvc.xml
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\obj\Debug\laba.csprojAssemblyReference.cache
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\obj\Debug\laba.csproj.CoreCompileInputs.cache
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\obj\Debug\laba.csproj.CopyComplete
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\obj\Debug\laba.dll
+h:\ШАГ\ASP.Net_AJAX\2-я неделя\4-я встреча\data-driven_1576944855\data-driven\laba\obj\Debug\laba.pdb

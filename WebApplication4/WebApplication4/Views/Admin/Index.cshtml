@@ -1,0 +1,29 @@
+﻿@using WebApplication4.Models
+@model List<QuestRoom>
+@{
+    ViewBag.Title = "Index";
+}
+
+<link rel="stylesheet" href="~/MyContent/MyStyles/Admin_indexStyle.css" />
+
+<div>
+    @foreach (QuestRoom item in Model)
+    {
+        <div class="divroom">
+            <img class="img_div" src="~/MyContent/Image/@item.Logo" />
+        </div>
+        <div class="divroom">
+            <span>@item.Name</span>
+        </div>
+        <div>
+            @Html.ActionLink("Details", "Details", "Home", new { id = item.Id }, new { @class = "a_div" })
+            @Html.ActionLink("Update room", "UpdateRoom", "Admin", new { id = item.Id }, new { @class = "a_div" })
+            @Html.ActionLink("Delete room", "DeleteRoom", "Admin", new { id = item.Id }, new { @class = "a_div" })
+        </div>
+    }
+</div>
+
+<div class="btn">
+    @Html.ActionLink("Add room", "AddRoom", "Admin")
+</div>
+

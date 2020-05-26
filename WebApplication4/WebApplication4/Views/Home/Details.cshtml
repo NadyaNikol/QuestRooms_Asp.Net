@@ -1,0 +1,43 @@
+﻿@using WebApplication4.Models
+@model QuestRoom
+@{
+    ViewBag.Title = "Details";
+}
+
+<div class="quest-details">
+    <div class="quest-image-wrap">
+        <img class="quest-image" src="~/MyContent/Image/@Model.Logo" alt="" />
+    </div>
+    <div class="quest-info">
+        <h1 class="quest-title">@Model.Name</h1>
+        <h3 class="quest-desctiption">@Model.Description</h3>
+
+        <div class="quest-property">
+            <p><i class="fas fa-clock"></i> Duration: @Model.Time</p>
+        </div>
+
+        <div class="quest-property">
+            <p><i class="fas fa-angry"></i> Difficulty: @Model.LevelOfDifficulty / 10</p>
+        </div>
+
+        <div class="quest-property">
+            <p><i class="fas fa-surprise"></i> Fear level: @Model.LavelOfFear / 10</p>
+        </div>
+
+        <div class="quest-property">
+            <p><i class="fas fa-user-friends"></i>Players count min: @Model.MinPlayers, max: @Model.MaxPlayers</p>
+        </div>
+
+        <div class="phone-numbers-group">
+            @*<p>Number: @Model.Number</p>*@
+            @foreach (var phone in Model.Telephones)
+        {
+            <div class="quest-property">
+                <p><i class="fas fa-phone"></i> @phone.Number</p>
+            </div>
+        }
+        </div>
+    </div>
+</div>
+
+    <link rel="stylesheet" href="~/MyContent/MyStyles/DetailsStyle.css">

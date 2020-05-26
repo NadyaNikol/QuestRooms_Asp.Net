@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+    <link rel="stylesheet" href="~/MyContent/MyStyles/navbarStyle.css" />
+</head>
+<body>
+    <nav >
+        <ul class="navbar">
+            <li>@Html.ActionLink("Home", "Index", "Home")</li>
+            <li>@Html.ActionLink("Admin panel", "Index", "Admin")</li>
+        </ul>
+    </nav>
+
+
+    <div class="container body-content">
+        @RenderBody()
+
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

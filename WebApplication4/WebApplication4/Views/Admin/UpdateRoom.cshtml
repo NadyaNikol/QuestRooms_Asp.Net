@@ -1,0 +1,121 @@
+﻿@using WebApplication4.ModelViews
+@using WebApplication4.Models
+@model AddRoomViewModel
+@{
+    ViewBag.Title = "UpdateRoom";
+}
+
+<link href="~/MyContent/MyStyles/AdminRoomStyle.css" rel="stylesheet" />
+@*<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>*@
+
+@using (Html.BeginForm("UpdateRoom", null, FormMethod.Post, new { style = "margin-bottom: 500px", enctype = "multipart/form-data" }))
+{
+    <div>
+        <lable>Name</lable>
+        @Html.EditorFor(name => name.Room.Name)
+    </div>
+    <div>
+        <lable>Adress</lable>
+        @Html.EditorFor(adress => adress.Room.Adress)
+    </div>
+    <div>
+        <lable>Description</lable>
+        @Html.EditorFor(Description => Description.Room.Description)
+    </div>
+
+    <div>
+        <lable>Email</lable>
+        @Html.EditorFor(Email => Email.Room.Email)
+    </div>
+
+    <div>
+        <lable>LavelOfFear</lable>
+        @Html.EditorFor(LavelOfFear => LavelOfFear.Room.LavelOfFear)
+
+        <lable>LevelOfDifficulty</lable>
+        @Html.EditorFor(LevelOfDifficulty => LevelOfDifficulty.Room.LevelOfDifficulty)
+    </div>
+
+    <div>
+        <lable>MaxPlayers</lable>
+        @Html.EditorFor(MaxPlayers => MaxPlayers.Room.MaxPlayers)
+
+        <lable>MinPlayers</lable>
+        @Html.EditorFor(MinPlayers => MinPlayers.Room.MinPlayers)
+    </div>
+
+    <div>
+        <lable>Rating</lable>
+        @Html.EditorFor(Rating => Rating.Room.Rating)
+    </div>
+
+    <div>
+        <lable>Time</lable>
+        @Html.EditorFor(time => time.Room.Time)
+    </div>
+
+    <div>
+        <lable>Company</lable>
+        @Html.EditorFor(Company => Company.Room.Company)
+    </div>
+
+    <div>
+        <lable>Numbers</lable>
+        @*@Html.EditorFor(x => x.Room.Number)*@
+        @*@foreach (var item in Model.Room.Telephones)
+        {
+            @Html.EditorFor(i => item.Number)
+        }*@
+
+        @{ int index = 0; }
+        @foreach (Telephone phone in Model.Room.Telephones)
+        {
+            <div class="mdl-textfield mdl-js-textfield input-phone">
+                <input type="hidden" value="@phone.Id" name="Room.Telephones[@index].ID" />
+                <input type="number" class="mdl-textfield__input" value="@phone.Number" name="Room.Telephones[@index].Number" />
+            </div>
+            index++;
+        }
+
+        @*@foreach (var item in Model.Room.Telephones)
+        {
+            @Html.EditorFor(i => item.Number)
+        }*@
+
+        @*@Html.DropDownListFor(model=>model.Room.Id, ViewBag.Tel as SelectList)*@
+
+    </div>
+
+    <div id="fileDiv">
+        @Html.DisplayFor(x => x.Room.Logo)
+        @*<input type="button" value="change" id="change" />*@
+
+    </div>
+
+
+    @section scripts
+        {
+        <script>
+            $(function () {
+                $("#change").click(function () {
+
+                    var inp = document.createAttribute("input");
+                    //inp.name = "File";
+                    //inp.id = "file";
+                    inp.type = "file";
+
+                    var inp2 = document.createAttribute("input");
+                    //inp2.for = "File";
+                    inp2.innerText = "Choose an image to display";
+
+                    $("#fileDiv").append(inp)//.append(inp2);
+
+                    //$("#fileDiv").append(' <input type="file" name="File" id="file" />     < label for= "File" > Choose an image to display</label > ');
+                });
+            });
+        </script>
+    }
+    <input type="submit" value="OK" />
+
+}
+

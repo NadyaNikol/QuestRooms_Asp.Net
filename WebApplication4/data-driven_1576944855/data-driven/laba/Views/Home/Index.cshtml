@@ -1,0 +1,23 @@
+﻿@using laba.Models
+@model List<laba.Models.QuestRoom>
+
+@{ 
+    ViewBag.Title = "Quest rooms list";
+}
+
+@foreach (QuestRoom room in Model)
+{
+    <ul class="quests-list">
+        <li class="quest-item">
+            <div class="jumbotron">
+                <h1 class="display-4">@room.Title</h1>
+                <p class="lead">@room.Description</p>
+                <hr class="my-4">
+                <p>Duration: @room.DurationTime</p>
+                <p class="lead">
+                    <a class="btn btn-primary btn-lg" href="/home/details/@room.Id" role="button">Learn more</a>
+                </p>
+            </div>
+        </li>
+    </ul>
+}
